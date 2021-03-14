@@ -1,3 +1,5 @@
+# Pandas Analysis (PyCitySchools)
+
 In this project, I have analyzed a dataset regarding district-wide standardized test results. I have leveraged Pandas to aggregate data and showcase trends in school performance. My report includes the following: 
 
 ### District Summary
@@ -71,8 +73,8 @@ In this project, I have analyzed a dataset regarding district-wide standardized 
 
 ### Tools utilized: 
 
-Pandas libary
-Jupyter Notebook
+* Pandas libary
+* Jupyter Notebook
 
 -------
 
