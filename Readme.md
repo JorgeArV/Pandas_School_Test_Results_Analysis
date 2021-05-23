@@ -1,5 +1,7 @@
 # Pandas Analysis (PyCitySchools)
 
+![Screenshot](Pandas_Analysis_PyCitySchools/Screenshots_Final_Output/Screenshot.JPG)
+
 In this project, I have analyzed a dataset with information about district-wide standardized test results. I have leveraged Pandas to aggregate data and showcase trends in school performance. My report includes the following: 
 
 ### District Summary
